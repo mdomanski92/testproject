@@ -1,1 +1,1 @@
-# testproject
+# Rates API testing tool
